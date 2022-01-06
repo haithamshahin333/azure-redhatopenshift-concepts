@@ -4,6 +4,9 @@ The goal with this repo is to show an example of how to deploy a private, secure
 
 Under the `hub-spoke-deployment` directory you will find the guide to deploying the architecture.
 
-### Architecture
+### References
+- [Hub and Spoke Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli)
+- [Azure Red Hat OpenShift](https://docs.microsoft.com/en-us/azure/openshift/)
 
+### Architecture
 ![](./images/aro-hub-spoke-diagram.png)
