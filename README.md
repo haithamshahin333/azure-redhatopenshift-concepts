@@ -1,3 +1,7 @@
+# Quick Build Deployment
+
+If you would like to do a quick POC Deploy of ARO, navigate to the [CLI Deployment](./cli-deployment/README.md) folder and review the instructions to deploy.
+
 # Hub and Spoke ARO Example Deployment
 
 The goal with this repo is to show an example of how to deploy a private, secure ARO and force-tunnel traffic through Azure Firewall in the Hub VNET. You can fork this repo and add/customize as needed.
